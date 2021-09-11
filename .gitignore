@@ -1,9 +1,6 @@
 # GameMaker Studio Options
 options/
 
-# GameMaker Studio files
-*.yyp
-
 # Executables
 *.exe
 *.out
