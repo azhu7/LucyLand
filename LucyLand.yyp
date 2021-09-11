@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"sLucyRunning","path":"sprites/sLucyRunning/sLucyRunning.yy",},"order":16,},
     {"id":{"name":"sLucyStanding","path":"sprites/sLucyStanding/sLucyStanding.yy",},"order":15,},
+    {"id":{"name":"sCHIMKIN","path":"sprites/sCHIMKIN/sCHIMKIN.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
