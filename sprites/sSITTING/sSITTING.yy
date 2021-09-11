@@ -8,7 +8,7 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 12,
-  "bbox_right": 118,
+  "bbox_right": 116,
   "bbox_top": 12,
   "bbox_bottom": 57,
   "HTile": false,
@@ -25,9 +25,9 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"edb04e5f-d958-4924-88fd-7ad9a88d590d","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"edb04e5f-d958-4924-88fd-7ad9a88d590d","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":{"name":"34c9cc26-28b6-46c2-8839-ff3bd77fceee","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"edb04e5f-d958-4924-88fd-7ad9a88d590d","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":{"name":"3c4bf6ad-48d5-4aa1-a4b7-7c3aa8691a9d","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"edb04e5f-d958-4924-88fd-7ad9a88d590d","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":{"name":"6b86ed9a-7a50-4989-8916-f03296bc20e9","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"edb04e5f-d958-4924-88fd-7ad9a88d590d","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":{"name":"34c9cc26-28b6-46c2-8839-ff3bd77fceee","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sSITTING","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"edb04e5f-d958-4924-88fd-7ad9a88d590d","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"9ff01c35-1d4a-4685-bb76-ead586271a11","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"9ff01c35-1d4a-4685-bb76-ead586271a11","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":{"name":"3c4bf6ad-48d5-4aa1-a4b7-7c3aa8691a9d","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
@@ -35,9 +35,9 @@
         {"FrameId":{"name":"9ff01c35-1d4a-4685-bb76-ead586271a11","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":{"name":"34c9cc26-28b6-46c2-8839-ff3bd77fceee","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sSITTING","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"9ff01c35-1d4a-4685-bb76-ead586271a11","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"d8c157e3-5550-4b21-a332-4f9eefb93271","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d8c157e3-5550-4b21-a332-4f9eefb93271","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":{"name":"34c9cc26-28b6-46c2-8839-ff3bd77fceee","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"d8c157e3-5550-4b21-a332-4f9eefb93271","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":{"name":"3c4bf6ad-48d5-4aa1-a4b7-7c3aa8691a9d","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"d8c157e3-5550-4b21-a332-4f9eefb93271","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":{"name":"6b86ed9a-7a50-4989-8916-f03296bc20e9","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"d8c157e3-5550-4b21-a332-4f9eefb93271","path":"sprites/sSITTING/sSITTING.yy",},"LayerId":{"name":"34c9cc26-28b6-46c2-8839-ff3bd77fceee","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sSITTING","path":"sprites/sSITTING/sSITTING.yy",},"resourceVersion":"1.0","name":"d8c157e3-5550-4b21-a332-4f9eefb93271","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
