@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b5b8fb46-9ed8-47f1-8b48-6ad3de475a86","path":"sprites/sCHIMKIN/sCHIMKIN.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b5b8fb46-9ed8-47f1-8b48-6ad3de475a86","path":"sprites/sCHIMKIN/sCHIMKIN.yy",},"LayerId":{"name":"914fc00d-916d-4a7c-bc79-bc695be414da","path":"sprites/sCHIMKIN/sCHIMKIN.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sCHIMKIN","path":"sprites/sCHIMKIN/sCHIMKIN.yy",},"resourceVersion":"1.0","name":"b5b8fb46-9ed8-47f1-8b48-6ad3de475a86","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b5b8fb46-9ed8-47f1-8b48-6ad3de475a86","path":"sprites/sChimkin/sChimkin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b5b8fb46-9ed8-47f1-8b48-6ad3de475a86","path":"sprites/sChimkin/sChimkin.yy",},"LayerId":{"name":"914fc00d-916d-4a7c-bc79-bc695be414da","path":"sprites/sChimkin/sChimkin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sChimkin","path":"sprites/sChimkin/sChimkin.yy",},"resourceVersion":"1.0","name":"b5b8fb46-9ed8-47f1-8b48-6ad3de475a86","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sCHIMKIN","path":"sprites/sCHIMKIN/sCHIMKIN.yy",},
+    "spriteId": {"name":"sChimkin","path":"sprites/sChimkin/sChimkin.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"24718b5f-ab7a-4b8d-8518-d186076d1580","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b5b8fb46-9ed8-47f1-8b48-6ad3de475a86","path":"sprites/sCHIMKIN/sCHIMKIN.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"24718b5f-ab7a-4b8d-8518-d186076d1580","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b5b8fb46-9ed8-47f1-8b48-6ad3de475a86","path":"sprites/sChimkin/sChimkin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sCHIMKIN","path":"sprites/sCHIMKIN/sCHIMKIN.yy",},
+    "parent": {"name":"sChimkin","path":"sprites/sChimkin/sChimkin.yy",},
     "resourceVersion": "1.3",
-    "name": "sCHIMKIN",
+    "name": "sChimkin",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sCHIMKIN",
+  "name": "sChimkin",
   "tags": [],
   "resourceType": "GMSprite",
 }
