@@ -2,10 +2,10 @@
   "resources": [
     {"id":{"name":"sLucyRunning","path":"sprites/sLucyRunning/sLucyRunning.yy",},"order":16,},
     {"id":{"name":"sLucyStanding","path":"sprites/sLucyStanding/sLucyStanding.yy",},"order":15,},
-    {"id":{"name":"sMRKERNUFFLES","path":"sprites/sMRKERNUFFLES/sMRKERNUFFLES.yy",},"order":1,},
-    {"id":{"name":"sCHIMKIN","path":"sprites/sCHIMKIN/sCHIMKIN.yy",},"order":2,},
-    {"id":{"name":"sSHREK","path":"sprites/sSHREK/sSHREK.yy",},"order":0,},
-    {"id":{"name":"sSITTING","path":"sprites/sSITTING/sSITTING.yy",},"order":0,},
+    {"id":{"name":"sMrKernuffles","path":"sprites/sMrKernuffles/sMrKernuffles.yy",},"order":1,},
+    {"id":{"name":"sChimkin","path":"sprites/sChimkin/sChimkin.yy",},"order":2,},
+    {"id":{"name":"sShrek","path":"sprites/sShrek/sShrek.yy",},"order":0,},
+    {"id":{"name":"sLucySitting","path":"sprites/sLucySitting/sLucySitting.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
