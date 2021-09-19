@@ -8,7 +8,7 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 95,
+  "bbox_right": 105,
   "bbox_top": 19,
   "bbox_bottom": 58,
   "HTile": false,
@@ -25,24 +25,35 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"5742d5f5-751b-4ed3-94ff-74e6a46ae466","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5742d5f5-751b-4ed3-94ff-74e6a46ae466","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"LayerId":{"name":"976b04f5-2e80-43da-82d6-b8fbceaf2465","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"5742d5f5-751b-4ed3-94ff-74e6a46ae466","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"LayerId":{"name":"b21f29f6-66b4-41f7-a733-a1d4bb9359b4","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"5742d5f5-751b-4ed3-94ff-74e6a46ae466","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"LayerId":{"name":"f24dc65d-36c5-419b-a554-7f0200bfe18e","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sLucyStandingWithWeapon","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","name":"5742d5f5-751b-4ed3-94ff-74e6a46ae466","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7f91cf00-bdcd-4d1e-8c0a-eef174816d6f","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7f91cf00-bdcd-4d1e-8c0a-eef174816d6f","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"LayerId":{"name":"f24dc65d-36c5-419b-a554-7f0200bfe18e","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sLucyStandingWithWeapon","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","name":"7f91cf00-bdcd-4d1e-8c0a-eef174816d6f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"826cd096-3a25-4e48-88f4-c9011c70d21c","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"826cd096-3a25-4e48-88f4-c9011c70d21c","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"LayerId":{"name":"f24dc65d-36c5-419b-a554-7f0200bfe18e","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sLucyStandingWithWeapon","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","name":"826cd096-3a25-4e48-88f4-c9011c70d21c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e95a27be-8f63-4c80-bff4-c7762346de50","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e95a27be-8f63-4c80-bff4-c7762346de50","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"LayerId":{"name":"f24dc65d-36c5-419b-a554-7f0200bfe18e","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sLucyStandingWithWeapon","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","name":"e95a27be-8f63-4c80-bff4-c7762346de50","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sLucyStandingWithWeapon","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 15.0,
+    "playbackSpeed": 3.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 4.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"73a9aaae-c865-40e9-8fd5-8d464d1feb99","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5742d5f5-751b-4ed3-94ff-74e6a46ae466","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fe97a0d0-ecaf-443a-ae6b-9a5715a56538","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7f91cf00-bdcd-4d1e-8c0a-eef174816d6f","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0db448ca-0abe-412c-8fe1-c95a9f278c43","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"826cd096-3a25-4e48-88f4-c9011c70d21c","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6a3e49b1-bea4-426d-afa4-0e90fbbb9e95","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e95a27be-8f63-4c80-bff4-c7762346de50","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -66,8 +77,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"b21f29f6-66b4-41f7-a733-a1d4bb9359b4","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"976b04f5-2e80-43da-82d6-b8fbceaf2465","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"f24dc65d-36c5-419b-a554-7f0200bfe18e","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": {
     "left": 0,
