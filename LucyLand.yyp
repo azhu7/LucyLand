@@ -6,6 +6,7 @@
     {"id":{"name":"sLucyStandingWithWeapon","path":"sprites/sLucyStandingWithWeapon/sLucyStandingWithWeapon.yy",},"order":17,},
     {"id":{"name":"sChimkin","path":"sprites/sChimkin/sChimkin.yy",},"order":2,},
     {"id":{"name":"sShrek","path":"sprites/sShrek/sShrek.yy",},"order":0,},
+    {"id":{"name":"sBenicia","path":"sprites/sBenicia/sBenicia.yy",},"order":18,},
     {"id":{"name":"sLucySitting","path":"sprites/sLucySitting/sLucySitting.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
